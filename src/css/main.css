@@ -393,6 +393,7 @@ header .main ul li a{
     -webkit-filter:grayscale(100%);
     filter:grayscale(100%);
     width: 20%;
+    
     height: 3.5rem;
     background:url("../img/logo@1x.png") no-repeat;
     background-size:15rem 3.5rem;
